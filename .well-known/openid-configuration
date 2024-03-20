@@ -1,0 +1,1 @@
+{ "issuer": "https://raw.githubusercontent.com/timmydo/testblob/main", "jwks_uri": "https://raw.githubusercontent.com/timmydo/testblob/main/keys", "authorization_endpoint": "https://raw.githubusercontent.com/timmydo/testblob/main/auth", "token_endpoint": "https://raw.githubusercontent.com/timmydo/testblob/main/token"}
